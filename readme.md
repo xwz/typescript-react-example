@@ -36,7 +36,7 @@ This command will create a file called `typings.json` and a folder called `typin
 
 Just run:
 
-    webpack
+    webpack -d
 
 Now open up `index.html` in your favorite browser and everything should be ready to use!
 You should see a page that says "Hello from TypeScript and React!"
